@@ -1,0 +1,65 @@
+.form-control{
+    height: 50px;
+    line-height: 50px;
+    border:1px solid #f2f2f2;
+}
+.navclassbg {
+    background-color: #666666!important;
+}
+
+.color td {
+    background-color: #5cb85c;
+    color: white !important;
+    font-weight: bolder;
+}
+
+th {
+    color: black!important;
+    font-weight: bolder;
+}
+
+table {
+    border-color: #ccc;
+    border: 1px solid #ccc;
+}
+
+body td {
+    color: black!important;
+}
+
+.textareaa {
+    height: 115px!important;
+}
+.btn {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+.ticketBox {
+    background-color:white;
+    border-radius: 5px!important;
+    -webkit-border-radius: 10px!important;
+    -moz-border-radius: 10px!important;
+    border-radius: 10px;
+    overflow: hidden;
+    margin:10px;
+    padding-bottom: 15px;
+    border:solid 1px #afafaf;
+}
+.ticketTitle {
+    background-color:#F2F9FF;
+    padding:15px;
+    -webkit-border-radius: 10px!important;
+    -moz-border-radius: 10px !important;
+    border-radius: 10px!important;
+    margin-bottom: 10px;
+}
+.fontsize26{
+    font-size:26px;
+}
+.ck-editor__editable_inline {
+    min-height: 170px;
+}
+.badge a {
+    color:white;
+}
