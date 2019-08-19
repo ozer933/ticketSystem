@@ -5,7 +5,6 @@ use Illuminate\Support\Facades\Hash;
 use App\User;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Session;
-use SoapClient;
 use Cookie;
 
 
