@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title> Login | ArtıSubs Rapor </title>
+    <title> Login | TicketSystem </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
@@ -33,11 +33,11 @@
 
             <div class="col-md-12">
                 <div class="login-mail">
-                    <input type="text" placeholder="username" required="" name="username" value="<?php echo @$_POST['email'] ?>">
+                    <input type="text" placeholder="username" required="" name="username" value="admin">
                     <i class="fa fa-envelope"></i>
                 </div>
                 <div class="login-mail">
-                    <input type="password" placeholder="Password" required=""   value="" name="password" >
+                    <input type="password" placeholder="Password" required=""   value="ticket2019" name="password" >
                     <i class="fa fa-lock"></i>
                 </div>
 

@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9945cdbf-7e54-420a-850c-a783d3226a16" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/views/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/login.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/TicketSystems.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/22054ab201aff873003c19a1bd69b3d49cbe498c.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/views/22054ab201aff873003c19a1bd69b3d49cbe498c.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +68,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/login.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
@@ -80,7 +81,16 @@
         <entry file="file://$PROJECT_DIR$/resources/views/adminpanel/adminpanelmaster.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1323">
-              <caret line="63" column="10" lean-forward="true" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+              <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -150,7 +160,6 @@
         <option value="$PROJECT_DIR$/resources/views/adminpanel/footer.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/adminpanel/userTicketList.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/adminpanel/ticketedit.blade.php" />
-        <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/resources/views/adminpanel/keywordfindticket.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/adminpanel/welcome.blade.php" />
         <option value="$PROJECT_DIR$/public/css/ticketSyle.css" />
@@ -159,6 +168,7 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/UserController.php" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/login.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
       </list>
     </option>
   </component>
@@ -388,12 +398,12 @@
       <workItem from="1566030594483" duration="15162000" />
       <workItem from="1566070291452" duration="9242000" />
       <workItem from="1566122815199" duration="1585000" />
-      <workItem from="1566148072222" duration="8314000" />
+      <workItem from="1566148072222" duration="8976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73578000" />
+    <option name="totallyTimeSpent" value="74240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -513,13 +523,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/adminpanel/keywordfindticket.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1092">
@@ -581,7 +584,7 @@
     <entry file="file://$PROJECT_DIR$/resources/views/adminpanel/adminpanelmaster.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1323">
-          <caret line="63" column="10" lean-forward="true" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+          <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -610,6 +613,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="38" column="97" selection-start-line="38" selection-start-column="97" selection-end-line="38" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>

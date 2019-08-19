@@ -1,7 +1,7 @@
 <?php
 
 Route::any('/', function () {
-    return view('welcome');
+    return view('login');
 })->name('portalhome');;
 
 Route::any('/girisyap', 'UserController@loginsessions');
